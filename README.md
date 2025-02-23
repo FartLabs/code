@@ -1,15 +1,11 @@
-# Personal GitHub Proxy 🛰
+# **code.fartlabs.org**
 
-[![Deployed with Deno Deploy][deno_badge]][deno_deploy]
+🛰️ GitHub link shortening service.
 
-A link shortening service for my long GitHub username.
-
-Deployed to <https://personal-gh-proxy.deno.dev/>, linked to <https://etok.codes/>.
+```sh
+deno serve main.ts
+```
 
 ---
 
-Created with 💖 by [**@EthanThatOneKid**][author]
-
-[author]: https://etok.codes/
-[deno_deploy]: https://deno.com/deploy/
-[deno_badge]: https://img.shields.io/badge/deno-deploy-black?logo=deno
+Created with 💖 [**@FartLabs**]
