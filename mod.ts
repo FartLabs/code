@@ -1,4 +1,4 @@
-const BASE_URL = "https://github.com/EthanThatOneKid";
+const BASE_URL = "https://github.com/FartLabs";
 
 addEventListener("fetch", (event) => {
   const { request, respondWith } = event;
